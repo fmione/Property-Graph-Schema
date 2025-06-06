@@ -281,9 +281,6 @@ services:
 
   # Custom services
 
-  matlab-vba:
-    image: federm20/matlab-vba:v1.0.0
-
   mysql:
     image: mysql:5.7
     restart: always
@@ -327,18 +324,11 @@ services:
       context: images/emulator2
       dockerfile: Dockerfile
       
-  appseed-app:
-    container_name: appseed_app
-    restart: always
-    env_file:
-      - ".env"
+  neomodel:
+    image: neomodel
     build:
-      context: web
+      context: images/neomodel
       dockerfile: Dockerfile
-    volumes:
-      - ./web:/web
-    ports: 
-      - 5000:5000
 
 volumes:
   pg-postgres-db-volume:
