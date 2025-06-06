@@ -3,10 +3,10 @@
 Complete documentation and code to reproduce the results presented in the Supplementary Material of the paper entitled: **"A property graph schema for automated metadata capture, reproducibility and knowledge discovery in high-throughput bioprocess development"**.
 
 ## Authors
-Federico M. Mione $^a$, Martin F. Luna $^a$, Lucas Kaspersetz $^b$, Peter Neubauer $^b$, Ernesto C. Martinez $^a$ and M. Nicolas Cruz Bournazou $^b$.
+Federico M. Mione $^a$, Martin F. Luna $^a$, Lucas Kaspersetz $^b$, Peter Neubauer $^b$, Ernesto C. Martinez $^{a,b}$ and M. Nicolas Cruz Bournazou $^b$.
 
-*$^a$ INGAR (CONICET - UTN). Avellaneda 3657, Santa Fe, Argentina*<br>
-*$^b$ Technische Universität Berlin, Institute of Biotechnology, Chair of Bioprocess
+$^a$ *INGAR (CONICET - UTN). Avellaneda 3657, Santa Fe, Argentina*<br>
+$^b$ *Technische Universität Berlin, Institute of Biotechnology, Chair of Bioprocess
 Engineering. Berlin, Germany*
 
 
